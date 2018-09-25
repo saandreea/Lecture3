@@ -1,0 +1,1 @@
+UPDATE flights SET origin = 'Bucharest' WHERE id = 2;
